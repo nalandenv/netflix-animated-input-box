@@ -8,3 +8,5 @@ Welcome to my guide for building Netflix style form input boxes for your own pro
 <p>Input box after it has text content in it or it is focused.</p>
 <img src="./floating_label.png">
 <hr>
+<h2>Guide</h2>
+<p>Prior knowledge needed - <i>Basic HTML & CSS so you can understand how this is panning out.</i></p>
