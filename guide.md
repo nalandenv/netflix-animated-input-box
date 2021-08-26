@@ -4,9 +4,5 @@ Author - Nikhil Nalande</blockquote>
 <br>
 <h2>Introduction</h2>
 Welcome to my guide for building Netflix style form input boxes for your own projects. In this guide I'll walk you through step by step with required code and screenshots so you can understand better. At the end of this guide you will have made form as shown in screenshots below.<br><br>
-<img src="./demo.png" label="Hello world"><br>
-<p>Input box after it has text content in it or it is focused.</p>
-<img src="./floating_label.png">
+<img src="./netflix-gif.gif" alt="Animated Input Box"><br>
 <hr>
-<h2>Guide</h2>
-<p>Prior knowledge needed - <i>Basic HTML & CSS so you can understand how this is panning out.</i></p>
