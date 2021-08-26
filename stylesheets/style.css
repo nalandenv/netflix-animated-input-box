@@ -45,6 +45,13 @@ body {
   font-size: 18px;
   cursor: text;
   color: #8c8c8c;
+  /* Ty Ankit Senpai */
+  -webkit-transition: font .1s ease,top .1s ease,-webkit-transform .1s ease;
+    transition: font .1s ease,top .1s ease,-webkit-transform .1s ease;
+    -o-transition: font .1s ease,top .1s ease,-o-transform .1s ease;
+    -moz-transition: font .1s ease,top .1s ease,transform .1s ease,-moz-transform .1s ease;
+    transition: font .1s ease,top .1s ease,transform .1s ease;
+    transition: font .1s ease,top .1s ease,transform .1s ease,-webkit-transform .1s ease,-moz-transform .1s ease,-o-transform .1s ease;
 }
 .btn {
   width: 100%;
